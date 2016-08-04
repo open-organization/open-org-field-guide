@@ -13,3 +13,5 @@ In this repository, please find:
 - The book's cover (in .jpg, .pdf, and .tif formats)
 - A "binary" copy of the book (in .pdf format)
 - "Source code" for the book (in .odt format)
+
+Please contact open@opensource.com with comments, suggestions, and feedback.
