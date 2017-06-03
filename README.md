@@ -1,6 +1,6 @@
 # The Open Organization Field Guide
 
-This respository contains files related [_The Open Organization Field Guide_](https://opensource.com/open-organization/resources/field-guide), a community-produced companion to Jim Whitehurst's _The Open Organization_ (Harvard Business Review Press).
+This respository contains files related to [_The Open Organization Field Guide_](https://opensource.com/open-organization/resources/field-guide), a community-produced companion to Jim Whitehurst's _The Open Organization_ (Harvard Business Review Press).
 
 When he published [_The Open Organization_](https://opensource.com/open-organization/) in 2015, Jim Whitehurst invited a community of readers to do more than just read—he asked them to respond.
 
